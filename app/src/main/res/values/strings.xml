@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Design 2 App</string>
+    <string name="app_title">Immigration App</string>
+    <string name="app_title2">Maps</string>
+    <string name="app_title3">Accomodation</string>
+    <string name="transport_button">Transport</string>
+    <string name="visa_help">Visa Help</string>
+    <string name="forum">Forum</string>
+    <string name="img_desc">Image</string>
+</resources>
